@@ -1,0 +1,3 @@
+/Users/csabanagy/Desktop/DSA_II/Labor_01/cmake-build-debug/CMakeFiles/Labor_01.dir
+/Users/csabanagy/Desktop/DSA_II/Labor_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/csabanagy/Desktop/DSA_II/Labor_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
